@@ -1735,10 +1735,10 @@ markdown-utils@^0.7.3:
     list-item "^1.1.1"
     to-gfm-code-block "^0.1.1"
 
-marked@0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.2.tgz#015db158864438f24a64bdd61a0428b418706d09"
-  integrity sha1-AV2xWIZEOPJKZL3WGgQotBhwbQk=
+marked@0.3.18:
+  version "0.3.18"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.18.tgz#3ef058cd926101849b92a7a7c15db18c7fc76b2f"
+  integrity sha512-49i2QYhfULqaXzNZpxC808PisuCTGT2fgG0zrzdCI9N3rIfAWfW0nggvbXr6zvpynZdOG5+9xNxdzP0kwZnERw==
 
 math-random@^1.0.1:
   version "1.0.4"

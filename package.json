@@ -72,7 +72,7 @@
     "commonmark": "0.12.0",
     "gulp-format-md": "^0.1.10",
     "highlight.js": "^9.7.0",
-    "marked": "0.3.2",
+    "marked": "0.3.18",
     "mocha": "^6.1.4",
     "nyc": "^14.1.1"
   },
